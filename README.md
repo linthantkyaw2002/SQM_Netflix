@@ -1,7 +1,6 @@
 # Software Quality Management Case Study  
 ## Netflix Streaming Platform  
 
----
 
 ## 1. Project Overview
 
@@ -19,7 +18,6 @@ This case study applies recognized quality frameworks including:
 
 The objective is to demonstrate how theoretical software quality models can be practically implemented using modern development tools.
 
----
 
 ## 2. System Background
 
@@ -46,7 +44,6 @@ Software quality directly affects:
 - Revenue stability
 - Data security compliance
 
----
 
 ## 3. Quality Objectives (ISO/IEC 25010)
 
@@ -72,7 +69,6 @@ Ensures intuitive navigation and accessibility across devices.
 Protects personal and financial data.  
 **Monitoring:** Penetration testing, vulnerability scans, compliance audits.
 
----
 
 ## 4. Defect Management Framework
 
@@ -88,7 +84,6 @@ Defects are tracked using:
 - Milestones
 - Project Board workflow
 
----
 
 ## 5. CMMI Process Maturity Assessment
 
@@ -107,7 +102,6 @@ Justification:
 3. Establish centralized metrics dashboard
 4. Proactive risk monitoring framework
 
----
 
 ## 6. Risk Management Strategy
 
@@ -126,7 +120,6 @@ Mitigation strategies include:
 
 All risks are documented and tracked using GitHub Issues.
 
----
 
 ## 7. GitHub Quality Governance Workflow
 
@@ -144,7 +137,6 @@ This repository demonstrates:
 This ensures traceability between:
 Quality Objectives → Defects → Risks → Process Improvements
 
----
 
 ## Conclusion
 
